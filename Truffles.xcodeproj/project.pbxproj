@@ -7,19 +7,19 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		39A8FEA21D47B022009E039C /* Algorithm.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39A8FE961D47B022009E039C /* Algorithm.swift */; };
+		39A8FEA31D47B022009E039C /* Enums.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39A8FE971D47B022009E039C /* Enums.swift */; };
+		39A8FEA41D47B022009E039C /* Foundation+Helper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39A8FE981D47B022009E039C /* Foundation+Helper.swift */; };
+		39A8FEA51D47B022009E039C /* Legacy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39A8FE991D47B022009E039C /* Legacy.swift */; };
+		39A8FEA61D47B022009E039C /* SXClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39A8FE9A1D47B022009E039C /* SXClient.swift */; };
+		39A8FEA71D47B022009E039C /* SXObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39A8FE9B1D47B022009E039C /* SXObject.swift */; };
+		39A8FEA81D47B022009E039C /* SXQueue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39A8FE9C1D47B022009E039C /* SXQueue.swift */; };
+		39A8FEA91D47B022009E039C /* SXRuntime.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39A8FE9D1D47B022009E039C /* SXRuntime.swift */; };
+		39A8FEAA1D47B022009E039C /* SXServer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39A8FE9E1D47B022009E039C /* SXServer.swift */; };
+		39A8FEAB1D47B022009E039C /* SXSockaddr.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39A8FE9F1D47B022009E039C /* SXSockaddr.swift */; };
+		39A8FEAC1D47B022009E039C /* SXSocket.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39A8FEA01D47B022009E039C /* SXSocket.swift */; };
+		39A8FEAD1D47B022009E039C /* SXTypeProto.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39A8FEA11D47B022009E039C /* SXTypeProto.swift */; };
 		39B04A941D47349600B80227 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39B04A931D47349600B80227 /* main.swift */; };
-		39B04AA81D4734D600B80227 /* Algorithm.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39B04A9C1D4734D600B80227 /* Algorithm.swift */; };
-		39B04AA91D4734D600B80227 /* Enums.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39B04A9D1D4734D600B80227 /* Enums.swift */; };
-		39B04AAA1D4734D600B80227 /* Foundation+Helper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39B04A9E1D4734D600B80227 /* Foundation+Helper.swift */; };
-		39B04AAB1D4734D600B80227 /* Legacy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39B04A9F1D4734D600B80227 /* Legacy.swift */; };
-		39B04AAC1D4734D600B80227 /* SXClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39B04AA01D4734D600B80227 /* SXClient.swift */; };
-		39B04AAD1D4734D600B80227 /* SXObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39B04AA11D4734D600B80227 /* SXObject.swift */; };
-		39B04AAE1D4734D600B80227 /* SXQueue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39B04AA21D4734D600B80227 /* SXQueue.swift */; };
-		39B04AAF1D4734D600B80227 /* SXRuntime.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39B04AA31D4734D600B80227 /* SXRuntime.swift */; };
-		39B04AB01D4734D600B80227 /* SXServer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39B04AA41D4734D600B80227 /* SXServer.swift */; };
-		39B04AB11D4734D600B80227 /* SXSockaddr.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39B04AA51D4734D600B80227 /* SXSockaddr.swift */; };
-		39B04AB21D4734D600B80227 /* SXSocket.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39B04AA61D4734D600B80227 /* SXSocket.swift */; };
-		39B04AB31D4734D600B80227 /* SXTypeProto.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39B04AA71D4734D600B80227 /* SXTypeProto.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -35,20 +35,20 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		39A8FE961D47B022009E039C /* Algorithm.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Algorithm.swift; sourceTree = "<group>"; };
+		39A8FE971D47B022009E039C /* Enums.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Enums.swift; sourceTree = "<group>"; };
+		39A8FE981D47B022009E039C /* Foundation+Helper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Foundation+Helper.swift"; sourceTree = "<group>"; };
+		39A8FE991D47B022009E039C /* Legacy.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Legacy.swift; sourceTree = "<group>"; };
+		39A8FE9A1D47B022009E039C /* SXClient.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SXClient.swift; sourceTree = "<group>"; };
+		39A8FE9B1D47B022009E039C /* SXObject.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SXObject.swift; sourceTree = "<group>"; };
+		39A8FE9C1D47B022009E039C /* SXQueue.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SXQueue.swift; sourceTree = "<group>"; };
+		39A8FE9D1D47B022009E039C /* SXRuntime.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SXRuntime.swift; sourceTree = "<group>"; };
+		39A8FE9E1D47B022009E039C /* SXServer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SXServer.swift; sourceTree = "<group>"; };
+		39A8FE9F1D47B022009E039C /* SXSockaddr.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SXSockaddr.swift; sourceTree = "<group>"; };
+		39A8FEA01D47B022009E039C /* SXSocket.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SXSocket.swift; sourceTree = "<group>"; };
+		39A8FEA11D47B022009E039C /* SXTypeProto.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SXTypeProto.swift; sourceTree = "<group>"; };
 		39B04A901D47349600B80227 /* Truffles */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Truffles; sourceTree = BUILT_PRODUCTS_DIR; };
 		39B04A931D47349600B80227 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
-		39B04A9C1D4734D600B80227 /* Algorithm.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Algorithm.swift; path = "../../../Downloads/spartanX-master/Swift/spartanX/Algorithm.swift"; sourceTree = "<group>"; };
-		39B04A9D1D4734D600B80227 /* Enums.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Enums.swift; path = "../../../Downloads/spartanX-master/Swift/spartanX/Enums.swift"; sourceTree = "<group>"; };
-		39B04A9E1D4734D600B80227 /* Foundation+Helper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "Foundation+Helper.swift"; path = "../../../Downloads/spartanX-master/Swift/spartanX/Foundation+Helper.swift"; sourceTree = "<group>"; };
-		39B04A9F1D4734D600B80227 /* Legacy.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Legacy.swift; path = "../../../Downloads/spartanX-master/Swift/spartanX/Legacy.swift"; sourceTree = "<group>"; };
-		39B04AA01D4734D600B80227 /* SXClient.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SXClient.swift; path = "../../../Downloads/spartanX-master/Swift/spartanX/SXClient.swift"; sourceTree = "<group>"; };
-		39B04AA11D4734D600B80227 /* SXObject.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SXObject.swift; path = "../../../Downloads/spartanX-master/Swift/spartanX/SXObject.swift"; sourceTree = "<group>"; };
-		39B04AA21D4734D600B80227 /* SXQueue.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SXQueue.swift; path = "../../../Downloads/spartanX-master/Swift/spartanX/SXQueue.swift"; sourceTree = "<group>"; };
-		39B04AA31D4734D600B80227 /* SXRuntime.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SXRuntime.swift; path = "../../../Downloads/spartanX-master/Swift/spartanX/SXRuntime.swift"; sourceTree = "<group>"; };
-		39B04AA41D4734D600B80227 /* SXServer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SXServer.swift; path = "../../../Downloads/spartanX-master/Swift/spartanX/SXServer.swift"; sourceTree = "<group>"; };
-		39B04AA51D4734D600B80227 /* SXSockaddr.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SXSockaddr.swift; path = "../../../Downloads/spartanX-master/Swift/spartanX/SXSockaddr.swift"; sourceTree = "<group>"; };
-		39B04AA61D4734D600B80227 /* SXSocket.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SXSocket.swift; path = "../../../Downloads/spartanX-master/Swift/spartanX/SXSocket.swift"; sourceTree = "<group>"; };
-		39B04AA71D4734D600B80227 /* SXTypeProto.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SXTypeProto.swift; path = "../../../Downloads/spartanX-master/Swift/spartanX/SXTypeProto.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,18 +90,18 @@
 		39B04A9A1D4734A000B80227 /* SpartanX */ = {
 			isa = PBXGroup;
 			children = (
-				39B04A9C1D4734D600B80227 /* Algorithm.swift */,
-				39B04A9D1D4734D600B80227 /* Enums.swift */,
-				39B04A9E1D4734D600B80227 /* Foundation+Helper.swift */,
-				39B04A9F1D4734D600B80227 /* Legacy.swift */,
-				39B04AA01D4734D600B80227 /* SXClient.swift */,
-				39B04AA11D4734D600B80227 /* SXObject.swift */,
-				39B04AA21D4734D600B80227 /* SXQueue.swift */,
-				39B04AA31D4734D600B80227 /* SXRuntime.swift */,
-				39B04AA41D4734D600B80227 /* SXServer.swift */,
-				39B04AA51D4734D600B80227 /* SXSockaddr.swift */,
-				39B04AA61D4734D600B80227 /* SXSocket.swift */,
-				39B04AA71D4734D600B80227 /* SXTypeProto.swift */,
+				39A8FE961D47B022009E039C /* Algorithm.swift */,
+				39A8FE971D47B022009E039C /* Enums.swift */,
+				39A8FE981D47B022009E039C /* Foundation+Helper.swift */,
+				39A8FE991D47B022009E039C /* Legacy.swift */,
+				39A8FE9A1D47B022009E039C /* SXClient.swift */,
+				39A8FE9B1D47B022009E039C /* SXObject.swift */,
+				39A8FE9C1D47B022009E039C /* SXQueue.swift */,
+				39A8FE9D1D47B022009E039C /* SXRuntime.swift */,
+				39A8FE9E1D47B022009E039C /* SXServer.swift */,
+				39A8FE9F1D47B022009E039C /* SXSockaddr.swift */,
+				39A8FEA01D47B022009E039C /* SXSocket.swift */,
+				39A8FEA11D47B022009E039C /* SXTypeProto.swift */,
 			);
 			name = SpartanX;
 			sourceTree = "<group>";
@@ -171,19 +171,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				39B04AAE1D4734D600B80227 /* SXQueue.swift in Sources */,
-				39B04AB11D4734D600B80227 /* SXSockaddr.swift in Sources */,
-				39B04AB01D4734D600B80227 /* SXServer.swift in Sources */,
-				39B04AAD1D4734D600B80227 /* SXObject.swift in Sources */,
-				39B04AAA1D4734D600B80227 /* Foundation+Helper.swift in Sources */,
-				39B04AB21D4734D600B80227 /* SXSocket.swift in Sources */,
-				39B04AAF1D4734D600B80227 /* SXRuntime.swift in Sources */,
+				39A8FEA81D47B022009E039C /* SXQueue.swift in Sources */,
+				39A8FEAB1D47B022009E039C /* SXSockaddr.swift in Sources */,
+				39A8FEAA1D47B022009E039C /* SXServer.swift in Sources */,
+				39A8FEA71D47B022009E039C /* SXObject.swift in Sources */,
+				39A8FEA41D47B022009E039C /* Foundation+Helper.swift in Sources */,
+				39A8FEAC1D47B022009E039C /* SXSocket.swift in Sources */,
+				39A8FEA91D47B022009E039C /* SXRuntime.swift in Sources */,
 				39B04A941D47349600B80227 /* main.swift in Sources */,
-				39B04AB31D4734D600B80227 /* SXTypeProto.swift in Sources */,
-				39B04AA91D4734D600B80227 /* Enums.swift in Sources */,
-				39B04AAC1D4734D600B80227 /* SXClient.swift in Sources */,
-				39B04AAB1D4734D600B80227 /* Legacy.swift in Sources */,
-				39B04AA81D4734D600B80227 /* Algorithm.swift in Sources */,
+				39A8FEAD1D47B022009E039C /* SXTypeProto.swift in Sources */,
+				39A8FEA31D47B022009E039C /* Enums.swift in Sources */,
+				39A8FEA61D47B022009E039C /* SXClient.swift in Sources */,
+				39A8FEA51D47B022009E039C /* Legacy.swift in Sources */,
+				39A8FEA21D47B022009E039C /* Algorithm.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -305,6 +305,7 @@
 				39B04A991D47349600B80227 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
